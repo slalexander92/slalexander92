@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slalexander92)](https://github.com/anuraghazra/github-readme-stats)
+[![slalexander92 github stats](https://github-readme-stats.vercel.app/api?username=slalexander92)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
